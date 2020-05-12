@@ -1,5 +1,5 @@
 {
-  "name": "gulp-jest",
+  "name": "gulp-jest-acierto",
   "version": "4.0.3",
   "description": "Gulp plugin for running your Jest tests",
   "main": "lib/index.js",
